@@ -1,4 +1,4 @@
-# MTUQ_PSO
+## MTUQ_PSO
 
 This repository contains the Particle Swarm Optimization (PSO) implementation developed for moment tensor inversion using the [MTUQ](https://github.com/mtuqorg/mtuq) framework.
 
