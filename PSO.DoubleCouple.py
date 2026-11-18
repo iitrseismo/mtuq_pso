@@ -444,8 +444,8 @@ def main():
             overall_start_time = time.time()
         
         # Define paths and parameters
-        path_data = fullpath('/home/pankaj/Pankaj_PhD_work/ANET_PSO/Anet_example/20090407201255351/*.[zrt]')
-        path_weights = fullpath('/home/pankaj/Pankaj_PhD_work/ANET_PSO/Anet_example/20090407201255351/weights.dat')
+        path_data = fullpath('sacfiles_path')
+        path_weights = fullpath('weight_files_path/weights.dat')
         event_id = '20090407201255351'
         model = 'ak135'
         
