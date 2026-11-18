@@ -385,8 +385,8 @@ def main():
             print("Starting Full Moment Tensor PSO Inversion...")
         
         # Define paths and parameters
-        path_data = fullpath('/home/pankaj/Pankaj_PhD_work/ANET_PSO/Anet_example/20090407201255351/*.[zrt]')
-        path_weights = fullpath('/home/pankaj/Pankaj_PhD_work/ANET_PSO/Anet_example/20090407201255351/weights.dat')
+        path_data = fullpath('sac_files_path/*.[zrt]')
+        path_weights = fullpath('weight_files_path/weights.dat')
         event_id = '20090407201255351'
         model = 'ak135'
         
