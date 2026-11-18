@@ -35,7 +35,7 @@ or
 ```bash
 mpirun -n <number_of_processors> python script_name.py
 ```
-## 5. Data
+## 4. Data
 
 Example data can be downloaded and prepared using **PySEP**.
 
